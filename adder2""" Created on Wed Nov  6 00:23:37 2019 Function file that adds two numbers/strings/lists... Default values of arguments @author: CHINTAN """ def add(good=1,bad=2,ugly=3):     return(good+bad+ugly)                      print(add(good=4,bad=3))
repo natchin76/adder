@@ -1,0 +1,12 @@
+"""
+Created on Wed Nov  6 00:23:37 2019
+Function file that adds two numbers/strings/lists...
+Default values of arguments
+@author: CHINTAN
+"""
+def add(good=1,bad=2,ugly=3):
+    return(good+bad+ugly)
+      
+        
+    
+print(add(good=4,bad=3))
